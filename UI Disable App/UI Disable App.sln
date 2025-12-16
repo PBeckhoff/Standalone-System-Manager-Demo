@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI Disable App", "UI Disable App\UI Disable App.csproj", "{B1EE6B7B-3CF4-4E83-AFE4-A0B71E52D544}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupInstaller", "SetupInstaller\SetupInstaller.vdproj", "{3E2ADCA1-5464-8E98-0C5A-F4BE9EAAEB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EE6B7B-3CF4-4E83-AFE4-A0B71E52D544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EE6B7B-3CF4-4E83-AFE4-A0B71E52D544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EE6B7B-3CF4-4E83-AFE4-A0B71E52D544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EE6B7B-3CF4-4E83-AFE4-A0B71E52D544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2ADCA1-5464-8E98-0C5A-F4BE9EAAEB96}.Debug|Any CPU.ActiveCfg = Debug
+		{3E2ADCA1-5464-8E98-0C5A-F4BE9EAAEB96}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A8BD8A-63E1-48FB-9F13-B676C628D217}
+	EndGlobalSection
+EndGlobal
